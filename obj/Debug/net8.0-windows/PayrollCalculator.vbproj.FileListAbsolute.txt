@@ -1,0 +1,17 @@
+C:\Users\HELLO\Source\Repos\PayrollCalculator\bin\Debug\net8.0-windows\PayrollCalculator.exe
+C:\Users\HELLO\Source\Repos\PayrollCalculator\bin\Debug\net8.0-windows\PayrollCalculator.deps.json
+C:\Users\HELLO\Source\Repos\PayrollCalculator\bin\Debug\net8.0-windows\PayrollCalculator.runtimeconfig.json
+C:\Users\HELLO\Source\Repos\PayrollCalculator\bin\Debug\net8.0-windows\PayrollCalculator.dll
+C:\Users\HELLO\Source\Repos\PayrollCalculator\bin\Debug\net8.0-windows\PayrollCalculator.pdb
+C:\Users\HELLO\Source\Repos\PayrollCalculator\obj\Debug\net8.0-windows\PayrollCalculator.frmPayroll.resources
+C:\Users\HELLO\Source\Repos\PayrollCalculator\obj\Debug\net8.0-windows\PayrollCalculator.Resources.resources
+C:\Users\HELLO\Source\Repos\PayrollCalculator\obj\Debug\net8.0-windows\PayrollCalculator.vbproj.GenerateResource.cache
+C:\Users\HELLO\Source\Repos\PayrollCalculator\obj\Debug\net8.0-windows\PayrollCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HELLO\Source\Repos\PayrollCalculator\obj\Debug\net8.0-windows\PayrollCalculator.AssemblyInfoInputs.cache
+C:\Users\HELLO\Source\Repos\PayrollCalculator\obj\Debug\net8.0-windows\PayrollCalculator.AssemblyInfo.vb
+C:\Users\HELLO\Source\Repos\PayrollCalculator\obj\Debug\net8.0-windows\PayrollCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\HELLO\Source\Repos\PayrollCalculator\obj\Debug\net8.0-windows\PayrollCalculator.dll
+C:\Users\HELLO\Source\Repos\PayrollCalculator\obj\Debug\net8.0-windows\refint\PayrollCalculator.dll
+C:\Users\HELLO\Source\Repos\PayrollCalculator\obj\Debug\net8.0-windows\PayrollCalculator.pdb
+C:\Users\HELLO\Source\Repos\PayrollCalculator\obj\Debug\net8.0-windows\PayrollCalculator.genruntimeconfig.cache
+C:\Users\HELLO\Source\Repos\PayrollCalculator\obj\Debug\net8.0-windows\ref\PayrollCalculator.dll
